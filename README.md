@@ -3,7 +3,7 @@ O Ticker Analyzer é um programa de análise de dados financeiros que permite se
 
 Como usar
 Clone o repositório em sua máquina local.
-git clone https://github.com/seu-usuario/ticker-analyzer.git
+git clone https://github.com/anselmoaxo/ticker-analyzer.git
 Instale as dependências necessárias.
 pip install -r requirements.txt
 Execute o programa.
